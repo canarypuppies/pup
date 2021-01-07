@@ -7,5 +7,6 @@
 <font-face units-per-em="1024" ascent="960" descent="-64" />
 <missing-glyph horiz-adv-x="1024" />
 <glyph unicode="&#x20;" horiz-adv-x="512" d="" />
-<glyph unicode="&#xe900;" glyph-name="Checkmark" horiz-adv-x="1347" d="M30.244 431.772l126.892 139.569 542.323-493.068-126.892-139.569-542.323 493.068zM442.642 60.741l735.144 888.654 145.341-120.234-735.144-888.654-145.341 120.234z" />
+<glyph unicode="&#xe900;" glyph-name="Checkmark" horiz-adv-x="1347" d="M1325.811 825.263l-145.516 123.958-619.789-749.137-404.211 371.874-129.347-140.126 544.337-490.442 5.389 5.389 10.779-5.389z" />
+<glyph unicode="&#xea1c;" glyph-name="play3" d="M192 832l640-384-640-384z" />
 </font></defs></svg>
